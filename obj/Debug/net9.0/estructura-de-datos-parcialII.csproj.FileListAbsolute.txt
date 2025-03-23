@@ -1,0 +1,15 @@
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\bin\Debug\net9.0\estructura-de-datos-parcialII.exe
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\bin\Debug\net9.0\estructura-de-datos-parcialII.deps.json
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\bin\Debug\net9.0\estructura-de-datos-parcialII.runtimeconfig.json
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\bin\Debug\net9.0\estructura-de-datos-parcialII.dll
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\bin\Debug\net9.0\estructura-de-datos-parcialII.pdb
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\estructura-de-datos-parcialII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\estructura-de-datos-parcialII.AssemblyInfoInputs.cache
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\estructura-de-datos-parcialII.AssemblyInfo.cs
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\estructura-de-datos-parcialII.csproj.CoreCompileInputs.cache
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\estructura-de-datos-parcialII.sourcelink.json
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\estructura-de-datos-parcialII.dll
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\refint\estructura-de-datos-parcialII.dll
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\estructura-de-datos-parcialII.pdb
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\estructura-de-datos-parcialII.genruntimeconfig.cache
+C:\Users\dafer\VISUAL CODE TRABAJO\estructura-de-datos-parcialII\estructura-de-datos-parcialII\obj\Debug\net9.0\ref\estructura-de-datos-parcialII.dll
